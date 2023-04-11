@@ -1,5 +1,7 @@
 # Bio_Med_Phantom_Robot
 
+Design of a reaching task and of a controller for a planar manipulator using different force fields
+
 ## REACHING TASK 
 
 a) Read the encoders and the end effector Cartesian position (x, y, z) using the Phantom Simulink block. Use VR toolbox to display a cursor on a screen corresponding to the end effector position and to display the position of the target. Both target and cursor will have a circular shape and the cursor will be smaller than the target (an example of WRL file is attached) 
